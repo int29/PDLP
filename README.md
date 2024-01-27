@@ -1,7 +1,7 @@
 # PDLP(Practical Deep-Learning using PyTorch)
 
 
-## 1. 내가쓰려고 정리한 pytorch로 구현하는 신경망 부터 LLM 까지(구현)
+### 1. 내가쓰려고 정리한 pytorch로 구현하는 신경망 부터 LLM 까지(구현)
 
 | 제목 | 코랩링크 | PPT |
 | -------- | -------- | -------- |
@@ -9,7 +9,7 @@
 |    |   |   |
 
 
-## 2. 내가 까먹을 때 보려고 만든 퍼셉트론 부터 Transformer까지(이론)
+### 2. 내가 까먹을 때 보려고 만든 퍼셉트론 부터 Transformer까지(이론)
 
 
-## 3. 내가 이해하려고 쓰는 Paper all you need (논문)
+### 3. 내가 이해하려고 쓰는 Paper all you need (논문)
