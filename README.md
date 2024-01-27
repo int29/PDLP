@@ -5,7 +5,7 @@
 
 | 제목 | 코랩링크 | PPT |
 | -------- | -------- | -------- |
-| 챕터00. 이미지 데이터 이해하기 | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/int29/PDLP/blob/main/chapter_00_understand_image_data.ipynb) | <a herf="https://github.com/int29/PDLP/blob/main/ch02_scratch_from%20_pytorch_to_transformers/chapter_00_understand_image_data.pdf"><img src="./file-pdf-2-fill.png">PDF 이동하기(LINK)</a> |
+| 챕터00. 이미지 데이터 이해하기 | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/int29/PDLP/blob/main/chapter_00_understand_image_data.ipynb) | <a href="https://github.com/int29/PDLP/blob/main/ch02_scratch_from%20_pytorch_to_transformers/chapter_00_understand_image_data.pdf"><img src="./file-pdf-2-fill.png">PDF(LINK)</a> |
 |    |   |   |
 
 
